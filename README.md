@@ -110,7 +110,7 @@ Visualizations were created using **Matplotlib**.
 https://www.kaggle.com/code/gulayaksoy/notebook152734a1c8/edit
 
 **PDF Report:**  
-[Online Retail Dataset.pdf](https://github.com/user-attachments/files/26554161/Online.Retail.Dataset.pdf)
+[Online Retail Dataset.pdf](https://github.com/user-attachments/files/26554345/Online.Retail.Dataset.pdf)
 
 
 ---
@@ -126,6 +126,8 @@ online-retail-rfm-analysis/
 
 ## 📬 Contact
 
-Created by **Gülay Keske Aksoy**  
+Created by **Gülay Aksoy**  
 For questions or collaboration, feel free to reach out via GitHub.
+
+
 
