@@ -76,13 +76,15 @@ These segments support targeted marketing and retention strategies.
 
 ## 📈 Visualizations
 
-The notebook includes:
+### 1. Segment Distribution
+![Segment Distribution](images/segment_distribution.png)
 
-- Segment distribution bar chart  
-- Monthly revenue time series  
-- Top 10 products by quantity sold  
+### 2. Monthly Revenue Trend
+![Monthly Revenue Trend](images/monthly_revenue_trend.png)
 
-Visualizations were created using **Matplotlib**.
+### 3. Top 10 Products by Quantity Sold
+![Top 10 Products](images/top_10_products.png)
+
 
 ---
 
