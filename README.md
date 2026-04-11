@@ -76,6 +76,8 @@ These segments support targeted marketing and retention strategies.
 
 ## 📊 Visualizations
 
+## 📊 Visualizations
+
 ### 1. Segment Distribution
 ![Segment Distribution](images/segment_distribution.png)
 
@@ -84,6 +86,7 @@ These segments support targeted marketing and retention strategies.
 
 ### 3. Top 10 Products by Quantity Sold
 ![Top 10 Products](images/top_10_products.png)
+
 
 
 ---
