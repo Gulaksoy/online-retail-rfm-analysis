@@ -132,7 +132,7 @@ online-retail-rfm-analysis/
 
 ## 📬 Contact
 
-Created by **Gülay Aksoy**  
+Created by **Gülay Keske Aksoy**  
 For questions or collaboration, feel free to reach out via GitHub.
 
 
