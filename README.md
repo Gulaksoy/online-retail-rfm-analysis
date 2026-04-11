@@ -74,16 +74,16 @@ These segments support targeted marketing and retention strategies.
 
 ---
 
-## 📈 Visualizations
+## 📊 Visualizations
 
 ### 1. Segment Distribution
-![Segment Distribution](images/segment distribution.png)
+![Segment Distribution](images/segment_distribution.png)
 
 ### 2. Monthly Revenue Trend
-![Monthly Revenue Trend](images/montly revenue.png)
+![Monthly Revenue Trend](images/monthly_revenue.png)
 
 ### 3. Top 10 Products by Quantity Sold
-![Top 10 Products](images/top 10 products.png)
+![Top 10 Products](images/top_10_products.png)
 
 
 ---
