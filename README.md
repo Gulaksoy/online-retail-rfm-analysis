@@ -107,7 +107,7 @@ Visualizations were created using **Matplotlib**.
 ## 📎 Notebook & Report
 
 **Kaggle Notebook:**  
-https://www.kaggle.com/code/gulayaksoy/notebook152734a1c8/edit
+https://www.kaggle.com/code/gulayaksoy/online-retail-rfm-analysis
 
 **PDF Report:**  
 [Online Retail Dataset.pdf](https://github.com/user-attachments/files/26554345/Online.Retail.Dataset.pdf)
